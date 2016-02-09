@@ -1,7 +1,6 @@
 
 # dom-events
 
-[![Build status][travis-image]][travis-url]
 [![Git tag][git-image]][git-url]
 [![NPM version][npm-image]][npm-url]
 [![Code style][standard-image]][standard-url]
